@@ -1,7 +1,7 @@
 # Pocket-Cube
 Collection of code snippets for use in the Pocket Cube game.
 
-The game itself will be being built in Unreal 4 with C++ being used where blueprints are not complex enough.
+The game itself will be being built in ~~Unreal 4 with C++ being used where blueprints are not complex enough.~~ Unity with c# being the main programming language.
 
 ##Order of development:
 
