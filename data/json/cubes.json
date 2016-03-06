@@ -1,0 +1,64 @@
+{
+    "cubes": [
+        {
+            "id": "01",
+            "name": "Cube One",
+            "health": 100,
+            "attack": 9,
+            "defence": 11,
+            "spcAttack": 10,
+            "spcDefence": 10,
+            "speed": 50
+        },
+        {
+            "id": "02",
+            "name": "Cube Two",
+            "health": 100,
+            "attack": 11,
+            "defence": 9,
+            "spcAttack": 10,
+            "spcDefence": 10,
+            "speed": 50
+        },
+        {
+            "id": "03",
+            "name": "Cube Three",
+            "health": 105,
+            "attack": 9,
+            "defence": 9,
+            "spcAttack": 11,
+            "spcDefence": 11,
+            "speed": 50
+        },
+        {
+            "id": "04",
+            "name": "Cube Four",
+            "health": 100,
+            "attack": 11,
+            "defence": 10,
+            "spcAttack": 9,
+            "spcDefence": 11,
+            "speed": 45
+        },
+        {
+            "id": "05",
+            "name": "Cube Five",
+            "health": 100,
+            "attack": 10,
+            "defence": 11,
+            "spcAttack": 11,
+            "spcDefence": 9,
+            "speed": 45
+        },
+        {
+            "id": "06",
+            "name": "Cube Six",
+            "health": 120,
+            "attack": 9,
+            "defence": 9,
+            "spcAttack": 9,
+            "spcDefence": 9,
+            "speed": 50
+        }
+    ]
+}

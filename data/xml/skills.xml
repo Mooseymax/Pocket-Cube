@@ -1,0 +1,5582 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<0>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Pound</ename>
+    <id>1</id>
+    <power>40</power>
+    <pp>35</pp>
+    <type></type>
+</0>
+<1>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Karate Chop</ename>
+    <id>2</id>
+    <power>50</power>
+    <pp>25</pp>
+    <type></type>
+</1>
+<2>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Double Slap</ename>
+    <id>3</id>
+    <power>15</power>
+    <pp>10</pp>
+    <type></type>
+</2>
+<3>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Comet Punch</ename>
+    <id>4</id>
+    <power>18</power>
+    <pp>15</pp>
+    <type></type>
+</3>
+<4>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Mega Punch</ename>
+    <id>5</id>
+    <power>80</power>
+    <pp>20</pp>
+    <type></type>
+</4>
+<5>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Pay Day</ename>
+    <id>6</id>
+    <power>40</power>
+    <pp>20</pp>
+    <type></type>
+</5>
+<6>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fire Punch</ename>
+    <id>7</id>
+    <power>75</power>
+    <pp>15</pp>
+    <type></type>
+</6>
+<7>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Ice Punch</ename>
+    <id>8</id>
+    <power>75</power>
+    <pp>15</pp>
+    <type></type>
+</7>
+<8>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Thunder Punch</ename>
+    <id>9</id>
+    <power>75</power>
+    <pp>15</pp>
+    <type></type>
+</8>
+<9>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Scratch</ename>
+    <id>10</id>
+    <power>40</power>
+    <pp>35</pp>
+    <type></type>
+</9>
+<10>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Vice Grip</ename>
+    <id>11</id>
+    <power>55</power>
+    <pp>30</pp>
+    <type></type>
+</10>
+<11>
+    <accuracy>30</accuracy>
+    <category></category>
+    <ename>Guillotine</ename>
+    <id>12</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</11>
+<12>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Razor Wind</ename>
+    <id>13</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</12>
+<13>
+    <accuracy />
+    <category></category>
+    <ename>Swords Dance</ename>
+    <id>14</id>
+    <power />
+    <pp>20</pp>
+    <tm>75</tm>
+    <type></type>
+</13>
+<14>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Cut</ename>
+    <id>15</id>
+    <power>50</power>
+    <pp>30</pp>
+    <type></type>
+</14>
+<15>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Gust</ename>
+    <id>16</id>
+    <power>40</power>
+    <pp>35</pp>
+    <type></type>
+</15>
+<16>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Wing Attack</ename>
+    <id>17</id>
+    <power>60</power>
+    <pp>35</pp>
+    <type></type>
+</16>
+<17>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Whirlwind</ename>
+    <id>18</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</17>
+<18>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Fly</ename>
+    <id>19</id>
+    <power>90</power>
+    <pp>15</pp>
+    <type></type>
+</18>
+<19>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Bind</ename>
+    <id>20</id>
+    <power>15</power>
+    <pp>20</pp>
+    <type></type>
+</19>
+<20>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Slam</ename>
+    <id>21</id>
+    <power>80</power>
+    <pp>20</pp>
+    <type></type>
+</20>
+<21>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Vine Whip</ename>
+    <id>22</id>
+    <power>45</power>
+    <pp>25</pp>
+    <type></type>
+</21>
+<22>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Stomp</ename>
+    <id>23</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</22>
+<23>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Double Kick</ename>
+    <id>24</id>
+    <power>30</power>
+    <pp>30</pp>
+    <type></type>
+</23>
+<24>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Mega Kick</ename>
+    <id>25</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</24>
+<25>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Jump Kick</ename>
+    <id>26</id>
+    <power>130</power>
+    <pp>10</pp>
+    <type></type>
+</25>
+<26>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Rolling Kick</ename>
+    <id>27</id>
+    <power>60</power>
+    <pp>15</pp>
+    <type></type>
+</26>
+<27>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sand Attack</ename>
+    <id>28</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</27>
+<28>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Headbutt</ename>
+    <id>29</id>
+    <power>70</power>
+    <pp>15</pp>
+    <type></type>
+</28>
+<29>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Horn Attack</ename>
+    <id>30</id>
+    <power>65</power>
+    <pp>25</pp>
+    <type></type>
+</29>
+<30>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Fury Attack</ename>
+    <id>31</id>
+    <power>15</power>
+    <pp>20</pp>
+    <type></type>
+</30>
+<31>
+    <accuracy>30</accuracy>
+    <category></category>
+    <ename>Horn Drill</ename>
+    <id>32</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</31>
+<32>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Tackle</ename>
+    <id>33</id>
+    <power>50</power>
+    <pp>35</pp>
+    <type></type>
+</32>
+<33>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Body Slam</ename>
+    <id>34</id>
+    <power>85</power>
+    <pp>15</pp>
+    <type></type>
+</33>
+<34>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Wrap</ename>
+    <id>35</id>
+    <power>15</power>
+    <pp>20</pp>
+    <type></type>
+</34>
+<35>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Take Down</ename>
+    <id>36</id>
+    <power>90</power>
+    <pp>20</pp>
+    <type></type>
+</35>
+<36>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Thrash</ename>
+    <id>37</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</36>
+<37>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Double-Edge</ename>
+    <id>38</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</37>
+<38>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Tail Whip</ename>
+    <id>39</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</38>
+<39>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Poison Sting</ename>
+    <id>40</id>
+    <power>15</power>
+    <pp>35</pp>
+    <type></type>
+</39>
+<40>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Twineedle</ename>
+    <id>41</id>
+    <power>25</power>
+    <pp>20</pp>
+    <type></type>
+</40>
+<41>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Pin Missile</ename>
+    <id>42</id>
+    <power>25</power>
+    <pp>20</pp>
+    <type></type>
+</41>
+<42>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Leer</ename>
+    <id>43</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</42>
+<43>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bite</ename>
+    <id>44</id>
+    <power>60</power>
+    <pp>25</pp>
+    <type></type>
+</43>
+<44>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Growl</ename>
+    <id>45</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</44>
+<45>
+    <accuracy />
+    <category></category>
+    <ename>Roar</ename>
+    <id>46</id>
+    <power />
+    <pp>20</pp>
+    <tm>5</tm>
+    <type></type>
+</45>
+<46>
+    <accuracy>55</accuracy>
+    <category></category>
+    <ename>Sing</ename>
+    <id>47</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</46>
+<47>
+    <accuracy>55</accuracy>
+    <category></category>
+    <ename>Supersonic</ename>
+    <id>48</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</47>
+<48>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Sonic Boom</ename>
+    <id>49</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</48>
+<49>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Disable</ename>
+    <id>50</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</49>
+<50>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Acid</ename>
+    <id>51</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</50>
+<51>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Ember</ename>
+    <id>52</id>
+    <power>40</power>
+    <pp>25</pp>
+    <type></type>
+</51>
+<52>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flamethrower</ename>
+    <id>53</id>
+    <power>90</power>
+    <pp>15</pp>
+    <tm>35</tm>
+    <type></type>
+</52>
+<53>
+    <accuracy />
+    <category></category>
+    <ename>Mist</ename>
+    <id>54</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</53>
+<54>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Water Gun</ename>
+    <id>55</id>
+    <power>40</power>
+    <pp>25</pp>
+    <type></type>
+</54>
+<55>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Hydro Pump</ename>
+    <id>56</id>
+    <power>110</power>
+    <pp>5</pp>
+    <type></type>
+</55>
+<56>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Surf</ename>
+    <id>57</id>
+    <power>90</power>
+    <pp>15</pp>
+    <type></type>
+</56>
+<57>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Ice Beam</ename>
+    <id>58</id>
+    <power>90</power>
+    <pp>10</pp>
+    <tm>13</tm>
+    <type></type>
+</57>
+<58>
+    <accuracy>70</accuracy>
+    <category></category>
+    <ename>Blizzard</ename>
+    <id>59</id>
+    <power>110</power>
+    <pp>5</pp>
+    <tm>14</tm>
+    <type></type>
+</58>
+<59>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psybeam</ename>
+    <id>60</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</59>
+<60>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bubble Beam</ename>
+    <id>61</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</60>
+<61>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Aurora Beam</ename>
+    <id>62</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</61>
+<62>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Hyper Beam</ename>
+    <id>63</id>
+    <power>150</power>
+    <pp>5</pp>
+    <tm>15</tm>
+    <type></type>
+</62>
+<63>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Peck</ename>
+    <id>64</id>
+    <power>35</power>
+    <pp>35</pp>
+    <type></type>
+</63>
+<64>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Drill Peck</ename>
+    <id>65</id>
+    <power>80</power>
+    <pp>20</pp>
+    <type></type>
+</64>
+<65>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Submission</ename>
+    <id>66</id>
+    <power>80</power>
+    <pp>25</pp>
+    <type></type>
+</65>
+<66>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Low Kick</ename>
+    <id>67</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</66>
+<67>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Counter</ename>
+    <id>68</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</67>
+<68>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Seismic Toss</ename>
+    <id>69</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</68>
+<69>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Strength</ename>
+    <id>70</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</69>
+<70>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Absorb</ename>
+    <id>71</id>
+    <power>20</power>
+    <pp>25</pp>
+    <type></type>
+</70>
+<71>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Mega Drain</ename>
+    <id>72</id>
+    <power>40</power>
+    <pp>15</pp>
+    <type></type>
+</71>
+<72>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Leech Seed</ename>
+    <id>73</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</72>
+<73>
+    <accuracy />
+    <category></category>
+    <ename>Growth</ename>
+    <id>74</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</73>
+<74>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Razor Leaf</ename>
+    <id>75</id>
+    <power>55</power>
+    <pp>25</pp>
+    <type></type>
+</74>
+<75>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Solar Beam</ename>
+    <id>76</id>
+    <power>120</power>
+    <pp>10</pp>
+    <tm>22</tm>
+    <type></type>
+</75>
+<76>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Poison Powder</ename>
+    <id>77</id>
+    <power />
+    <pp>35</pp>
+    <type></type>
+</76>
+<77>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Stun Spore</ename>
+    <id>78</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</77>
+<78>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Sleep Powder</ename>
+    <id>79</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</78>
+<79>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Petal Dance</ename>
+    <id>80</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</79>
+<80>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>String Shot</ename>
+    <id>81</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</80>
+<81>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dragon Rage</ename>
+    <id>82</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</81>
+<82>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Fire Spin</ename>
+    <id>83</id>
+    <power>35</power>
+    <pp>15</pp>
+    <type></type>
+</82>
+<83>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Thunder Shock</ename>
+    <id>84</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</83>
+<84>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Thunderbolt</ename>
+    <id>85</id>
+    <power>90</power>
+    <pp>15</pp>
+    <tm>24</tm>
+    <type></type>
+</84>
+<85>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Thunder Wave</ename>
+    <id>86</id>
+    <power />
+    <pp>20</pp>
+    <tm>73</tm>
+    <type></type>
+</85>
+<86>
+    <accuracy>70</accuracy>
+    <category></category>
+    <ename>Thunder</ename>
+    <id>87</id>
+    <power>110</power>
+    <pp>10</pp>
+    <tm>25</tm>
+    <type></type>
+</86>
+<87>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Rock Throw</ename>
+    <id>88</id>
+    <power>50</power>
+    <pp>15</pp>
+    <type></type>
+</87>
+<88>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Earthquake</ename>
+    <id>89</id>
+    <power>100</power>
+    <pp>10</pp>
+    <tm>26</tm>
+    <type></type>
+</88>
+<89>
+    <accuracy>30</accuracy>
+    <category></category>
+    <ename>Fissure</ename>
+    <id>90</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</89>
+<90>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dig</ename>
+    <id>91</id>
+    <power>80</power>
+    <pp>10</pp>
+    <tm>28</tm>
+    <type></type>
+</90>
+<91>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Toxic</ename>
+    <id>92</id>
+    <power />
+    <pp>10</pp>
+    <tm>6</tm>
+    <type></type>
+</91>
+<92>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Confusion</ename>
+    <id>93</id>
+    <power>50</power>
+    <pp>25</pp>
+    <type></type>
+</92>
+<93>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psychic</ename>
+    <id>94</id>
+    <power>90</power>
+    <pp>10</pp>
+    <tm>29</tm>
+    <type></type>
+</93>
+<94>
+    <accuracy>60</accuracy>
+    <category></category>
+    <ename>Hypnosis</ename>
+    <id>95</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</94>
+<95>
+    <accuracy />
+    <category></category>
+    <ename>Meditate</ename>
+    <id>96</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</95>
+<96>
+    <accuracy />
+    <category></category>
+    <ename>Agility</ename>
+    <id>97</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</96>
+<97>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Quick Attack</ename>
+    <id>98</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</97>
+<98>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Rage</ename>
+    <id>99</id>
+    <power>20</power>
+    <pp>20</pp>
+    <type></type>
+</98>
+<99>
+    <accuracy />
+    <category></category>
+    <ename>Teleport</ename>
+    <id>100</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</99>
+<100>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Night Shade</ename>
+    <id>101</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</100>
+<101>
+    <accuracy />
+    <category></category>
+    <ename>Mimic</ename>
+    <id>102</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</101>
+<102>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Screech</ename>
+    <id>103</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</102>
+<103>
+    <accuracy />
+    <category></category>
+    <ename>Double Team</ename>
+    <id>104</id>
+    <power />
+    <pp>15</pp>
+    <tm>32</tm>
+    <type></type>
+</103>
+<104>
+    <accuracy />
+    <category></category>
+    <ename>Recover</ename>
+    <id>105</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</104>
+<105>
+    <accuracy />
+    <category></category>
+    <ename>Harden</ename>
+    <id>106</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</105>
+<106>
+    <accuracy />
+    <category></category>
+    <ename>Minimize</ename>
+    <id>107</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</106>
+<107>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Smokescreen</ename>
+    <id>108</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</107>
+<108>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Confuse Ray</ename>
+    <id>109</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</108>
+<109>
+    <accuracy />
+    <category></category>
+    <ename>Withdraw</ename>
+    <id>110</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</109>
+<110>
+    <accuracy />
+    <category></category>
+    <ename>Defense Curl</ename>
+    <id>111</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</110>
+<111>
+    <accuracy />
+    <category></category>
+    <ename>Barrier</ename>
+    <id>112</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</111>
+<112>
+    <accuracy />
+    <category></category>
+    <ename>Light Screen</ename>
+    <id>113</id>
+    <power />
+    <pp>30</pp>
+    <tm>16</tm>
+    <type></type>
+</112>
+<113>
+    <accuracy />
+    <category></category>
+    <ename>Haze</ename>
+    <id>114</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</113>
+<114>
+    <accuracy />
+    <category></category>
+    <ename>Reflect</ename>
+    <id>115</id>
+    <power />
+    <pp>20</pp>
+    <tm>33</tm>
+    <type></type>
+</114>
+<115>
+    <accuracy />
+    <category></category>
+    <ename>Focus Energy</ename>
+    <id>116</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</115>
+<116>
+    <accuracy />
+    <category></category>
+    <ename>Bide</ename>
+    <id>117</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</116>
+<117>
+    <accuracy />
+    <category></category>
+    <ename>Metronome</ename>
+    <id>118</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</117>
+<118>
+    <accuracy />
+    <category></category>
+    <ename>Mirror Move</ename>
+    <id>119</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</118>
+<119>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Self-Destruct</ename>
+    <id>120</id>
+    <power>200</power>
+    <pp>5</pp>
+    <type></type>
+</119>
+<120>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Egg Bomb</ename>
+    <id>121</id>
+    <power>100</power>
+    <pp>10</pp>
+    <type></type>
+</120>
+<121>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Lick</ename>
+    <id>122</id>
+    <power>30</power>
+    <pp>30</pp>
+    <type></type>
+</121>
+<122>
+    <accuracy>70</accuracy>
+    <category></category>
+    <ename>Smog</ename>
+    <id>123</id>
+    <power>30</power>
+    <pp>20</pp>
+    <type></type>
+</122>
+<123>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sludge</ename>
+    <id>124</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</123>
+<124>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Bone Club</ename>
+    <id>125</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</124>
+<125>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Fire Blast</ename>
+    <id>126</id>
+    <power>110</power>
+    <pp>5</pp>
+    <tm>38</tm>
+    <type></type>
+</125>
+<126>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Waterfall</ename>
+    <id>127</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</126>
+<127>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Clamp</ename>
+    <id>128</id>
+    <power>35</power>
+    <pp>10</pp>
+    <type></type>
+</127>
+<128>
+    <accuracy />
+    <category></category>
+    <ename>Swift</ename>
+    <id>129</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</128>
+<129>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Skull Bash</ename>
+    <id>130</id>
+    <power>130</power>
+    <pp>10</pp>
+    <type></type>
+</129>
+<130>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Spike Cannon</ename>
+    <id>131</id>
+    <power>20</power>
+    <pp>15</pp>
+    <type></type>
+</130>
+<131>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Constrict</ename>
+    <id>132</id>
+    <power>10</power>
+    <pp>35</pp>
+    <type></type>
+</131>
+<132>
+    <accuracy />
+    <category></category>
+    <ename>Amnesia</ename>
+    <id>133</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</132>
+<133>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Kinesis</ename>
+    <id>134</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</133>
+<134>
+    <accuracy />
+    <category></category>
+    <ename>Soft-Boiled</ename>
+    <id>135</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</134>
+<135>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>High Jump Kick</ename>
+    <id>136</id>
+    <power>130</power>
+    <pp>10</pp>
+    <type></type>
+</135>
+<136>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Glare</ename>
+    <id>137</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</136>
+<137>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dream Eater</ename>
+    <id>138</id>
+    <power>100</power>
+    <pp>15</pp>
+    <tm>85</tm>
+    <type></type>
+</137>
+<138>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Poison Gas</ename>
+    <id>139</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</138>
+<139>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Barrage</ename>
+    <id>140</id>
+    <power>15</power>
+    <pp>20</pp>
+    <type></type>
+</139>
+<140>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Leech Life</ename>
+    <id>141</id>
+    <power>20</power>
+    <pp>15</pp>
+    <type></type>
+</140>
+<141>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Lovely Kiss</ename>
+    <id>142</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</141>
+<142>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Sky Attack</ename>
+    <id>143</id>
+    <power>140</power>
+    <pp>5</pp>
+    <type></type>
+</142>
+<143>
+    <accuracy />
+    <category></category>
+    <ename>Transform</ename>
+    <id>144</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</143>
+<144>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bubble</ename>
+    <id>145</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</144>
+<145>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dizzy Punch</ename>
+    <id>146</id>
+    <power>70</power>
+    <pp>10</pp>
+    <type></type>
+</145>
+<146>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Spore</ename>
+    <id>147</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</146>
+<147>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flash</ename>
+    <id>148</id>
+    <power />
+    <pp>20</pp>
+    <tm>70</tm>
+    <type></type>
+</147>
+<148>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psywave</ename>
+    <id>149</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</148>
+<149>
+    <accuracy />
+    <category></category>
+    <ename>Splash</ename>
+    <id>150</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</149>
+<150>
+    <accuracy />
+    <category></category>
+    <ename>Acid Armor</ename>
+    <id>151</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</150>
+<151>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Crabhammer</ename>
+    <id>152</id>
+    <power>100</power>
+    <pp>10</pp>
+    <type></type>
+</151>
+<152>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Explosion</ename>
+    <id>153</id>
+    <power>250</power>
+    <pp>5</pp>
+    <tm>64</tm>
+    <type></type>
+</152>
+<153>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Fury Swipes</ename>
+    <id>154</id>
+    <power>18</power>
+    <pp>15</pp>
+    <type></type>
+</153>
+<154>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Bonemerang</ename>
+    <id>155</id>
+    <power>50</power>
+    <pp>10</pp>
+    <type></type>
+</154>
+<155>
+    <accuracy />
+    <category></category>
+    <ename>Rest</ename>
+    <id>156</id>
+    <power />
+    <pp>10</pp>
+    <tm>44</tm>
+    <type></type>
+</155>
+<156>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Rock Slide</ename>
+    <id>157</id>
+    <power>75</power>
+    <pp>10</pp>
+    <tm>80</tm>
+    <type></type>
+</156>
+<157>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Hyper Fang</ename>
+    <id>158</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</157>
+<158>
+    <accuracy />
+    <category></category>
+    <ename>Sharpen</ename>
+    <id>159</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</158>
+<159>
+    <accuracy />
+    <category></category>
+    <ename>Conversion</ename>
+    <id>160</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</159>
+<160>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Tri Attack</ename>
+    <id>161</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</160>
+<161>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Super Fang</ename>
+    <id>162</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</161>
+<162>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Slash</ename>
+    <id>163</id>
+    <power>70</power>
+    <pp>20</pp>
+    <type></type>
+</162>
+<163>
+    <accuracy />
+    <category></category>
+    <ename>Substitute</ename>
+    <id>164</id>
+    <power />
+    <pp>10</pp>
+    <tm>90</tm>
+    <type></type>
+</163>
+<164>
+    <accuracy />
+    <category></category>
+    <ename>Struggle</ename>
+    <id>165</id>
+    <power>50</power>
+    <pp />
+    <type></type>
+</164>
+<165>
+    <accuracy />
+    <category></category>
+    <ename>Sketch</ename>
+    <id>166</id>
+    <power />
+    <pp>1</pp>
+    <type></type>
+</165>
+<166>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Triple Kick</ename>
+    <id>167</id>
+    <power>10</power>
+    <pp>10</pp>
+    <type></type>
+</166>
+<167>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Thief</ename>
+    <id>168</id>
+    <power>60</power>
+    <pp>10</pp>
+    <tm>46</tm>
+    <type></type>
+</167>
+<168>
+    <accuracy />
+    <category></category>
+    <ename>Spider Web</ename>
+    <id>169</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</168>
+<169>
+    <accuracy />
+    <category></category>
+    <ename>Mind Reader</ename>
+    <id>170</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</169>
+<170>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Nightmare</ename>
+    <id>171</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</170>
+<171>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flame Wheel</ename>
+    <id>172</id>
+    <power>60</power>
+    <pp>25</pp>
+    <type></type>
+</171>
+<172>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Snore</ename>
+    <id>173</id>
+    <power>50</power>
+    <pp>15</pp>
+    <type></type>
+</172>
+<173>
+    <accuracy />
+    <category></category>
+    <ename>Curse</ename>
+    <id>174</id>
+    <power />
+    <pp />
+    <type></type>
+</173>
+<174>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flail</ename>
+    <id>175</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</174>
+<175>
+    <accuracy />
+    <category></category>
+    <ename>Conversion 2</ename>
+    <id>176</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</175>
+<176>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Aeroblast</ename>
+    <id>177</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</176>
+<177>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Cotton Spore</ename>
+    <id>178</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</177>
+<178>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Reversal</ename>
+    <id>179</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</178>
+<179>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Spite</ename>
+    <id>180</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</179>
+<180>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Powder Snow</ename>
+    <id>181</id>
+    <power>40</power>
+    <pp>25</pp>
+    <type></type>
+</180>
+<181>
+    <accuracy />
+    <category></category>
+    <ename>Protect</ename>
+    <id>182</id>
+    <power />
+    <pp>10</pp>
+    <tm>17</tm>
+    <type></type>
+</181>
+<182>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Mach Punch</ename>
+    <id>183</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</182>
+<183>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Scary Face</ename>
+    <id>184</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</183>
+<184>
+    <accuracy />
+    <category></category>
+    <ename>Feint Attack</ename>
+    <id>185</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</184>
+<185>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Sweet Kiss</ename>
+    <id>186</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</185>
+<186>
+    <accuracy />
+    <category></category>
+    <ename>Belly Drum</ename>
+    <id>187</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</186>
+<187>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sludge Bomb</ename>
+    <id>188</id>
+    <power>90</power>
+    <pp>10</pp>
+    <tm>36</tm>
+    <type></type>
+</187>
+<188>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Mud-Slap</ename>
+    <id>189</id>
+    <power>20</power>
+    <pp>10</pp>
+    <type></type>
+</188>
+<189>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Octazooka</ename>
+    <id>190</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</189>
+<190>
+    <accuracy />
+    <category></category>
+    <ename>Spikes</ename>
+    <id>191</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</190>
+<191>
+    <accuracy>50</accuracy>
+    <category></category>
+    <ename>Zap Cannon</ename>
+    <id>192</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</191>
+<192>
+    <accuracy />
+    <category></category>
+    <ename>Foresight</ename>
+    <id>193</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</192>
+<193>
+    <accuracy />
+    <category></category>
+    <ename>Destiny Bond</ename>
+    <id>194</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</193>
+<194>
+    <accuracy />
+    <category></category>
+    <ename>Perish Song</ename>
+    <id>195</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</194>
+<195>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Icy Wind</ename>
+    <id>196</id>
+    <power>55</power>
+    <pp>15</pp>
+    <type></type>
+</195>
+<196>
+    <accuracy />
+    <category></category>
+    <ename>Detect</ename>
+    <id>197</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</196>
+<197>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Bone Rush</ename>
+    <id>198</id>
+    <power>25</power>
+    <pp>10</pp>
+    <type></type>
+</197>
+<198>
+    <accuracy />
+    <category></category>
+    <ename>Lock-On</ename>
+    <id>199</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</198>
+<199>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Outrage</ename>
+    <id>200</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</199>
+<200>
+    <accuracy />
+    <category></category>
+    <ename>Sandstorm</ename>
+    <id>201</id>
+    <power />
+    <pp>10</pp>
+    <tm>37</tm>
+    <type></type>
+</200>
+<201>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Giga Drain</ename>
+    <id>202</id>
+    <power>75</power>
+    <pp>10</pp>
+    <type></type>
+</201>
+<202>
+    <accuracy />
+    <category></category>
+    <ename>Endure</ename>
+    <id>203</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</202>
+<203>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Charm</ename>
+    <id>204</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</203>
+<204>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Rollout</ename>
+    <id>205</id>
+    <power>30</power>
+    <pp>20</pp>
+    <type></type>
+</204>
+<205>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>False Swipe</ename>
+    <id>206</id>
+    <power>40</power>
+    <pp>40</pp>
+    <tm>54</tm>
+    <type></type>
+</205>
+<206>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Swagger</ename>
+    <id>207</id>
+    <power />
+    <pp>15</pp>
+    <tm>87</tm>
+    <type></type>
+</206>
+<207>
+    <accuracy />
+    <category></category>
+    <ename>Milk Drink</ename>
+    <id>208</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</207>
+<208>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Spark</ename>
+    <id>209</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</208>
+<209>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Fury Cutter</ename>
+    <id>210</id>
+    <power>40</power>
+    <pp>20</pp>
+    <type></type>
+</209>
+<210>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Steel Wing</ename>
+    <id>211</id>
+    <power>70</power>
+    <pp>25</pp>
+    <tm>51</tm>
+    <type></type>
+</210>
+<211>
+    <accuracy />
+    <category></category>
+    <ename>Mean Look</ename>
+    <id>212</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</211>
+<212>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Attract</ename>
+    <id>213</id>
+    <power />
+    <pp>15</pp>
+    <tm>45</tm>
+    <type></type>
+</212>
+<213>
+    <accuracy />
+    <category></category>
+    <ename>Sleep Talk</ename>
+    <id>214</id>
+    <power />
+    <pp>10</pp>
+    <tm>88</tm>
+    <type></type>
+</213>
+<214>
+    <accuracy />
+    <category></category>
+    <ename>Heal Bell</ename>
+    <id>215</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</214>
+<215>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Return</ename>
+    <id>216</id>
+    <power />
+    <pp>20</pp>
+    <tm>27</tm>
+    <type></type>
+</215>
+<216>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Present</ename>
+    <id>217</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</216>
+<217>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Frustration</ename>
+    <id>218</id>
+    <power />
+    <pp>20</pp>
+    <tm>21</tm>
+    <type></type>
+</217>
+<218>
+    <accuracy />
+    <category></category>
+    <ename>Safeguard</ename>
+    <id>219</id>
+    <power />
+    <pp>25</pp>
+    <tm>20</tm>
+    <type></type>
+</218>
+<219>
+    <accuracy />
+    <category></category>
+    <ename>Pain Split</ename>
+    <id>220</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</219>
+<220>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Sacred Fire</ename>
+    <id>221</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</220>
+<221>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Magnitude</ename>
+    <id>222</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</221>
+<222>
+    <accuracy>50</accuracy>
+    <category></category>
+    <ename>Dynamic Punch</ename>
+    <id>223</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</222>
+<223>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Megahorn</ename>
+    <id>224</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</223>
+<224>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dragon Breath</ename>
+    <id>225</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</224>
+<225>
+    <accuracy />
+    <category></category>
+    <ename>Baton Pass</ename>
+    <id>226</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</225>
+<226>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Encore</ename>
+    <id>227</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</226>
+<227>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Pursuit</ename>
+    <id>228</id>
+    <power>40</power>
+    <pp>20</pp>
+    <type></type>
+</227>
+<228>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Rapid Spin</ename>
+    <id>229</id>
+    <power>20</power>
+    <pp>40</pp>
+    <type></type>
+</228>
+<229>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sweet Scent</ename>
+    <id>230</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</229>
+<230>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Iron Tail</ename>
+    <id>231</id>
+    <power>100</power>
+    <pp>15</pp>
+    <type></type>
+</230>
+<231>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Metal Claw</ename>
+    <id>232</id>
+    <power>50</power>
+    <pp>35</pp>
+    <type></type>
+</231>
+<232>
+    <accuracy />
+    <category></category>
+    <ename>Vital Throw</ename>
+    <id>233</id>
+    <power>70</power>
+    <pp>10</pp>
+    <type></type>
+</232>
+<233>
+    <accuracy />
+    <category></category>
+    <ename>Morning Sun</ename>
+    <id>234</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</233>
+<234>
+    <accuracy />
+    <category></category>
+    <ename>Synthesis</ename>
+    <id>235</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</234>
+<235>
+    <accuracy />
+    <category></category>
+    <ename>Moonlight</ename>
+    <id>236</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</235>
+<236>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Hidden Power</ename>
+    <id>237</id>
+    <power>60</power>
+    <pp>15</pp>
+    <tm>10</tm>
+    <type></type>
+</236>
+<237>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Cross Chop</ename>
+    <id>238</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</237>
+<238>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Twister</ename>
+    <id>239</id>
+    <power>40</power>
+    <pp>20</pp>
+    <type></type>
+</238>
+<239>
+    <accuracy />
+    <category></category>
+    <ename>Rain Dance</ename>
+    <id>240</id>
+    <power />
+    <pp>5</pp>
+    <tm>18</tm>
+    <type></type>
+</239>
+<240>
+    <accuracy />
+    <category></category>
+    <ename>Sunny Day</ename>
+    <id>241</id>
+    <power />
+    <pp>5</pp>
+    <tm>11</tm>
+    <type></type>
+</240>
+<241>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Crunch</ename>
+    <id>242</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</241>
+<242>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Mirror Coat</ename>
+    <id>243</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</242>
+<243>
+    <accuracy />
+    <category></category>
+    <ename>Psych Up</ename>
+    <id>244</id>
+    <power />
+    <pp>10</pp>
+    <tm>77</tm>
+    <type></type>
+</243>
+<244>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Extreme Speed</ename>
+    <id>245</id>
+    <power>80</power>
+    <pp>5</pp>
+    <type></type>
+</244>
+<245>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Ancient Power</ename>
+    <id>246</id>
+    <power>60</power>
+    <pp>5</pp>
+    <type></type>
+</245>
+<246>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Shadow Ball</ename>
+    <id>247</id>
+    <power>80</power>
+    <pp>15</pp>
+    <tm>30</tm>
+    <type></type>
+</246>
+<247>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Future Sight</ename>
+    <id>248</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</247>
+<248>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Rock Smash</ename>
+    <id>249</id>
+    <power>40</power>
+    <pp>15</pp>
+    <tm>94</tm>
+    <type></type>
+</248>
+<249>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Whirlpool</ename>
+    <id>250</id>
+    <power>35</power>
+    <pp>15</pp>
+    <type></type>
+</249>
+<250>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Beat Up</ename>
+    <id>251</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</250>
+<251>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fake Out</ename>
+    <id>252</id>
+    <power>40</power>
+    <pp>10</pp>
+    <type></type>
+</251>
+<252>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Uproar</ename>
+    <id>253</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</252>
+<253>
+    <accuracy />
+    <category></category>
+    <ename>Stockpile</ename>
+    <id>254</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</253>
+<254>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Spit Up</ename>
+    <id>255</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</254>
+<255>
+    <accuracy />
+    <category></category>
+    <ename>Swallow</ename>
+    <id>256</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</255>
+<256>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Heat Wave</ename>
+    <id>257</id>
+    <power>95</power>
+    <pp>10</pp>
+    <type></type>
+</256>
+<257>
+    <accuracy />
+    <category></category>
+    <ename>Hail</ename>
+    <id>258</id>
+    <power />
+    <pp>10</pp>
+    <tm>7</tm>
+    <type></type>
+</257>
+<258>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Torment</ename>
+    <id>259</id>
+    <power />
+    <pp>15</pp>
+    <tm>41</tm>
+    <type></type>
+</258>
+<259>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flatter</ename>
+    <id>260</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</259>
+<260>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Will-O-Wisp</ename>
+    <id>261</id>
+    <power />
+    <pp>15</pp>
+    <tm>61</tm>
+    <type></type>
+</260>
+<261>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Memento</ename>
+    <id>262</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</261>
+<262>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Facade</ename>
+    <id>263</id>
+    <power>70</power>
+    <pp>20</pp>
+    <tm>42</tm>
+    <type></type>
+</262>
+<263>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Focus Punch</ename>
+    <id>264</id>
+    <power>150</power>
+    <pp>20</pp>
+    <type></type>
+</263>
+<264>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Smelling Salts</ename>
+    <id>265</id>
+    <power>70</power>
+    <pp>10</pp>
+    <type></type>
+</264>
+<265>
+    <accuracy />
+    <category></category>
+    <ename>Follow Me</ename>
+    <id>266</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</265>
+<266>
+    <accuracy />
+    <category></category>
+    <ename>Nature Power</ename>
+    <id>267</id>
+    <power />
+    <pp>20</pp>
+    <tm>96</tm>
+    <type></type>
+</266>
+<267>
+    <accuracy />
+    <category></category>
+    <ename>Charge</ename>
+    <id>268</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</267>
+<268>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Taunt</ename>
+    <id>269</id>
+    <power />
+    <pp>20</pp>
+    <tm>12</tm>
+    <type></type>
+</268>
+<269>
+    <accuracy />
+    <category></category>
+    <ename>Helping Hand</ename>
+    <id>270</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</269>
+<270>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Trick</ename>
+    <id>271</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</270>
+<271>
+    <accuracy />
+    <category></category>
+    <ename>Role Play</ename>
+    <id>272</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</271>
+<272>
+    <accuracy />
+    <category></category>
+    <ename>Wish</ename>
+    <id>273</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</272>
+<273>
+    <accuracy />
+    <category></category>
+    <ename>Assist</ename>
+    <id>274</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</273>
+<274>
+    <accuracy />
+    <category></category>
+    <ename>Ingrain</ename>
+    <id>275</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</274>
+<275>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Superpower</ename>
+    <id>276</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</275>
+<276>
+    <accuracy />
+    <category></category>
+    <ename>Magic Coat</ename>
+    <id>277</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</276>
+<277>
+    <accuracy />
+    <category></category>
+    <ename>Recycle</ename>
+    <id>278</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</277>
+<278>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Revenge</ename>
+    <id>279</id>
+    <power>60</power>
+    <pp>10</pp>
+    <type></type>
+</278>
+<279>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Brick Break</ename>
+    <id>280</id>
+    <power>75</power>
+    <pp>15</pp>
+    <tm>31</tm>
+    <type></type>
+</279>
+<280>
+    <accuracy />
+    <category></category>
+    <ename>Yawn</ename>
+    <id>281</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</280>
+<281>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Knock Off</ename>
+    <id>282</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</281>
+<282>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Endeavor</ename>
+    <id>283</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</282>
+<283>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Eruption</ename>
+    <id>284</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</283>
+<284>
+    <accuracy />
+    <category></category>
+    <ename>Skill Swap</ename>
+    <id>285</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</284>
+<285>
+    <accuracy />
+    <category></category>
+    <ename>Imprison</ename>
+    <id>286</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</285>
+<286>
+    <accuracy />
+    <category></category>
+    <ename>Refresh</ename>
+    <id>287</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</286>
+<287>
+    <accuracy />
+    <category></category>
+    <ename>Grudge</ename>
+    <id>288</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</287>
+<288>
+    <accuracy />
+    <category></category>
+    <ename>Snatch</ename>
+    <id>289</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</288>
+<289>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Secret Power</ename>
+    <id>290</id>
+    <power>70</power>
+    <pp>20</pp>
+    <type></type>
+</289>
+<290>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dive</ename>
+    <id>291</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</290>
+<291>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Arm Thrust</ename>
+    <id>292</id>
+    <power>15</power>
+    <pp>20</pp>
+    <type></type>
+</291>
+<292>
+    <accuracy />
+    <category></category>
+    <ename>Camouflage</ename>
+    <id>293</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</292>
+<293>
+    <accuracy />
+    <category></category>
+    <ename>Tail Glow</ename>
+    <id>294</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</293>
+<294>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Luster Purge</ename>
+    <id>295</id>
+    <power>70</power>
+    <pp>5</pp>
+    <type></type>
+</294>
+<295>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Mist Ball</ename>
+    <id>296</id>
+    <power>70</power>
+    <pp>5</pp>
+    <type></type>
+</295>
+<296>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Feather Dance</ename>
+    <id>297</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</296>
+<297>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Teeter Dance</ename>
+    <id>298</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</297>
+<298>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Blaze Kick</ename>
+    <id>299</id>
+    <power>85</power>
+    <pp>10</pp>
+    <type></type>
+</298>
+<299>
+    <accuracy />
+    <category></category>
+    <ename>Mud Sport</ename>
+    <id>300</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</299>
+<300>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Ice Ball</ename>
+    <id>301</id>
+    <power>30</power>
+    <pp>20</pp>
+    <type></type>
+</300>
+<301>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Needle Arm</ename>
+    <id>302</id>
+    <power>60</power>
+    <pp>15</pp>
+    <type></type>
+</301>
+<302>
+    <accuracy />
+    <category></category>
+    <ename>Slack Off</ename>
+    <id>303</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</302>
+<303>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Hyper Voice</ename>
+    <id>304</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</303>
+<304>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Poison Fang</ename>
+    <id>305</id>
+    <power>50</power>
+    <pp>15</pp>
+    <type></type>
+</304>
+<305>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Crush Claw</ename>
+    <id>306</id>
+    <power>75</power>
+    <pp>10</pp>
+    <type></type>
+</305>
+<306>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Blast Burn</ename>
+    <id>307</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</306>
+<307>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Hydro Cannon</ename>
+    <id>308</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</307>
+<308>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Meteor Mash</ename>
+    <id>309</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</308>
+<309>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Astonish</ename>
+    <id>310</id>
+    <power>30</power>
+    <pp>15</pp>
+    <type></type>
+</309>
+<310>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Weather Ball</ename>
+    <id>311</id>
+    <power>50</power>
+    <pp>10</pp>
+    <type></type>
+</310>
+<311>
+    <accuracy />
+    <category></category>
+    <ename>Aromatherapy</ename>
+    <id>312</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</311>
+<312>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fake Tears</ename>
+    <id>313</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</312>
+<313>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Air Cutter</ename>
+    <id>314</id>
+    <power>60</power>
+    <pp>25</pp>
+    <type></type>
+</313>
+<314>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Overheat</ename>
+    <id>315</id>
+    <power>130</power>
+    <pp>5</pp>
+    <tm>50</tm>
+    <type></type>
+</314>
+<315>
+    <accuracy />
+    <category></category>
+    <ename>Odor Sleuth</ename>
+    <id>316</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</315>
+<316>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Rock Tomb</ename>
+    <id>317</id>
+    <power>60</power>
+    <pp>15</pp>
+    <tm>39</tm>
+    <type></type>
+</316>
+<317>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Silver Wind</ename>
+    <id>318</id>
+    <power>60</power>
+    <pp>5</pp>
+    <type></type>
+</317>
+<318>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Metal Sound</ename>
+    <id>319</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</318>
+<319>
+    <accuracy>55</accuracy>
+    <category></category>
+    <ename>Grass Whistle</ename>
+    <id>320</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</319>
+<320>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Tickle</ename>
+    <id>321</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</320>
+<321>
+    <accuracy />
+    <category></category>
+    <ename>Cosmic Power</ename>
+    <id>322</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</321>
+<322>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Water Spout</ename>
+    <id>323</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</322>
+<323>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Signal Beam</ename>
+    <id>324</id>
+    <power>75</power>
+    <pp>15</pp>
+    <type></type>
+</323>
+<324>
+    <accuracy />
+    <category></category>
+    <ename>Shadow Punch</ename>
+    <id>325</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</324>
+<325>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Extrasensory</ename>
+    <id>326</id>
+    <power>80</power>
+    <pp>20</pp>
+    <type></type>
+</325>
+<326>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Sky Uppercut</ename>
+    <id>327</id>
+    <power>85</power>
+    <pp>15</pp>
+    <type></type>
+</326>
+<327>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Sand Tomb</ename>
+    <id>328</id>
+    <power>35</power>
+    <pp>15</pp>
+    <type></type>
+</327>
+<328>
+    <accuracy>30</accuracy>
+    <category></category>
+    <ename>Sheer Cold</ename>
+    <id>329</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</328>
+<329>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Muddy Water</ename>
+    <id>330</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</329>
+<330>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bullet Seed</ename>
+    <id>331</id>
+    <power>25</power>
+    <pp>30</pp>
+    <type></type>
+</330>
+<331>
+    <accuracy />
+    <category></category>
+    <ename>Aerial Ace</ename>
+    <id>332</id>
+    <power>60</power>
+    <pp>20</pp>
+    <tm>40</tm>
+    <type></type>
+</331>
+<332>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Icicle Spear</ename>
+    <id>333</id>
+    <power>25</power>
+    <pp>30</pp>
+    <type></type>
+</332>
+<333>
+    <accuracy />
+    <category></category>
+    <ename>Iron Defense</ename>
+    <id>334</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</333>
+<334>
+    <accuracy />
+    <category></category>
+    <ename>Block</ename>
+    <id>335</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</334>
+<335>
+    <accuracy />
+    <category></category>
+    <ename>Howl</ename>
+    <id>336</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</335>
+<336>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dragon Claw</ename>
+    <id>337</id>
+    <power>80</power>
+    <pp>15</pp>
+    <tm>2</tm>
+    <type></type>
+</336>
+<337>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Frenzy Plant</ename>
+    <id>338</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</337>
+<338>
+    <accuracy />
+    <category></category>
+    <ename>Bulk Up</ename>
+    <id>339</id>
+    <power />
+    <pp>20</pp>
+    <tm>8</tm>
+    <type></type>
+</338>
+<339>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Bounce</ename>
+    <id>340</id>
+    <power>85</power>
+    <pp>5</pp>
+    <type></type>
+</339>
+<340>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Mud Shot</ename>
+    <id>341</id>
+    <power>55</power>
+    <pp>15</pp>
+    <type></type>
+</340>
+<341>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Poison Tail</ename>
+    <id>342</id>
+    <power>50</power>
+    <pp>25</pp>
+    <type></type>
+</341>
+<342>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Covet</ename>
+    <id>343</id>
+    <power>60</power>
+    <pp>40</pp>
+    <type></type>
+</342>
+<343>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Volt Tackle</ename>
+    <id>344</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</343>
+<344>
+    <accuracy />
+    <category></category>
+    <ename>Magical Leaf</ename>
+    <id>345</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</344>
+<345>
+    <accuracy />
+    <category></category>
+    <ename>Water Sport</ename>
+    <id>346</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</345>
+<346>
+    <accuracy />
+    <category></category>
+    <ename>Calm Mind</ename>
+    <id>347</id>
+    <power />
+    <pp>20</pp>
+    <tm>4</tm>
+    <type></type>
+</346>
+<347>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Leaf Blade</ename>
+    <id>348</id>
+    <power>90</power>
+    <pp>15</pp>
+    <type></type>
+</347>
+<348>
+    <accuracy />
+    <category></category>
+    <ename>Dragon Dance</ename>
+    <id>349</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</348>
+<349>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Rock Blast</ename>
+    <id>350</id>
+    <power>25</power>
+    <pp>10</pp>
+    <type></type>
+</349>
+<350>
+    <accuracy />
+    <category></category>
+    <ename>Shock Wave</ename>
+    <id>351</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</350>
+<351>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Water Pulse</ename>
+    <id>352</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</351>
+<352>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Doom Desire</ename>
+    <id>353</id>
+    <power>140</power>
+    <pp>5</pp>
+    <type></type>
+</352>
+<353>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Psycho Boost</ename>
+    <id>354</id>
+    <power>140</power>
+    <pp>5</pp>
+    <type></type>
+</353>
+<354>
+    <accuracy />
+    <category></category>
+    <ename>Roost</ename>
+    <id>355</id>
+    <power />
+    <pp>10</pp>
+    <tm>19</tm>
+    <type></type>
+</354>
+<355>
+    <accuracy />
+    <category></category>
+    <ename>Gravity</ename>
+    <id>356</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</355>
+<356>
+    <accuracy />
+    <category></category>
+    <ename>Miracle Eye</ename>
+    <id>357</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</356>
+<357>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Wake-Up Slap</ename>
+    <id>358</id>
+    <power>70</power>
+    <pp>10</pp>
+    <type></type>
+</357>
+<358>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Hammer Arm</ename>
+    <id>359</id>
+    <power>100</power>
+    <pp>10</pp>
+    <type></type>
+</358>
+<359>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Gyro Ball</ename>
+    <id>360</id>
+    <power />
+    <pp>5</pp>
+    <tm>74</tm>
+    <type></type>
+</359>
+<360>
+    <accuracy />
+    <category></category>
+    <ename>Healing Wish</ename>
+    <id>361</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</360>
+<361>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Brine</ename>
+    <id>362</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</361>
+<362>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Natural Gift</ename>
+    <id>363</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</362>
+<363>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Feint</ename>
+    <id>364</id>
+    <power>50</power>
+    <pp>10</pp>
+    <type></type>
+</363>
+<364>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Pluck</ename>
+    <id>365</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</364>
+<365>
+    <accuracy />
+    <category></category>
+    <ename>Tailwind</ename>
+    <id>366</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</365>
+<366>
+    <accuracy />
+    <category></category>
+    <ename>Acupressure</ename>
+    <id>367</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</366>
+<367>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Metal Burst</ename>
+    <id>368</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</367>
+<368>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>U-turn</ename>
+    <id>369</id>
+    <power>70</power>
+    <pp>20</pp>
+    <tm>89</tm>
+    <type></type>
+</368>
+<369>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Close Combat</ename>
+    <id>370</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</369>
+<370>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Payback</ename>
+    <id>371</id>
+    <power>50</power>
+    <pp>10</pp>
+    <tm>66</tm>
+    <type></type>
+</370>
+<371>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Assurance</ename>
+    <id>372</id>
+    <power>60</power>
+    <pp>10</pp>
+    <type></type>
+</371>
+<372>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Embargo</ename>
+    <id>373</id>
+    <power />
+    <pp>15</pp>
+    <tm>63</tm>
+    <type></type>
+</372>
+<373>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fling</ename>
+    <id>374</id>
+    <power />
+    <pp>10</pp>
+    <tm>56</tm>
+    <type></type>
+</373>
+<374>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psycho Shift</ename>
+    <id>375</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</374>
+<375>
+    <accuracy />
+    <category></category>
+    <ename>Trump Card</ename>
+    <id>376</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</375>
+<376>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Heal Block</ename>
+    <id>377</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</376>
+<377>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Wring Out</ename>
+    <id>378</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</377>
+<378>
+    <accuracy />
+    <category></category>
+    <ename>Power Trick</ename>
+    <id>379</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</378>
+<379>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Gastro Acid</ename>
+    <id>380</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</379>
+<380>
+    <accuracy />
+    <category></category>
+    <ename>Lucky Chant</ename>
+    <id>381</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</380>
+<381>
+    <accuracy />
+    <category></category>
+    <ename>Me First</ename>
+    <id>382</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</381>
+<382>
+    <accuracy />
+    <category></category>
+    <ename>Copycat</ename>
+    <id>383</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</382>
+<383>
+    <accuracy />
+    <category></category>
+    <ename>Power Swap</ename>
+    <id>384</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</383>
+<384>
+    <accuracy />
+    <category></category>
+    <ename>Guard Swap</ename>
+    <id>385</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</384>
+<385>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Punishment</ename>
+    <id>386</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</385>
+<386>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Last Resort</ename>
+    <id>387</id>
+    <power>140</power>
+    <pp>5</pp>
+    <type></type>
+</386>
+<387>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Worry Seed</ename>
+    <id>388</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</387>
+<388>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sucker Punch</ename>
+    <id>389</id>
+    <power>80</power>
+    <pp>5</pp>
+    <type></type>
+</388>
+<389>
+    <accuracy />
+    <category></category>
+    <ename>Toxic Spikes</ename>
+    <id>390</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</389>
+<390>
+    <accuracy />
+    <category></category>
+    <ename>Heart Swap</ename>
+    <id>391</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</390>
+<391>
+    <accuracy />
+    <category></category>
+    <ename>Aqua Ring</ename>
+    <id>392</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</391>
+<392>
+    <accuracy />
+    <category></category>
+    <ename>Magnet Rise</ename>
+    <id>393</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</392>
+<393>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flare Blitz</ename>
+    <id>394</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</393>
+<394>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Force Palm</ename>
+    <id>395</id>
+    <power>60</power>
+    <pp>10</pp>
+    <type></type>
+</394>
+<395>
+    <accuracy />
+    <category></category>
+    <ename>Aura Sphere</ename>
+    <id>396</id>
+    <power>80</power>
+    <pp>20</pp>
+    <type></type>
+</395>
+<396>
+    <accuracy />
+    <category></category>
+    <ename>Rock Polish</ename>
+    <id>397</id>
+    <power />
+    <pp>20</pp>
+    <tm>69</tm>
+    <type></type>
+</396>
+<397>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Poison Jab</ename>
+    <id>398</id>
+    <power>80</power>
+    <pp>20</pp>
+    <tm>84</tm>
+    <type></type>
+</397>
+<398>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dark Pulse</ename>
+    <id>399</id>
+    <power>80</power>
+    <pp>15</pp>
+    <tm>97</tm>
+    <type></type>
+</398>
+<399>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Night Slash</ename>
+    <id>400</id>
+    <power>70</power>
+    <pp>15</pp>
+    <type></type>
+</399>
+<400>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Aqua Tail</ename>
+    <id>401</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</400>
+<401>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Seed Bomb</ename>
+    <id>402</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</401>
+<402>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Air Slash</ename>
+    <id>403</id>
+    <power>75</power>
+    <pp>15</pp>
+    <type></type>
+</402>
+<403>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>X-Scissor</ename>
+    <id>404</id>
+    <power>80</power>
+    <pp>15</pp>
+    <tm>81</tm>
+    <type></type>
+</403>
+<404>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bug Buzz</ename>
+    <id>405</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</404>
+<405>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dragon Pulse</ename>
+    <id>406</id>
+    <power>85</power>
+    <pp>10</pp>
+    <type></type>
+</405>
+<406>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Dragon Rush</ename>
+    <id>407</id>
+    <power>100</power>
+    <pp>10</pp>
+    <type></type>
+</406>
+<407>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Power Gem</ename>
+    <id>408</id>
+    <power>80</power>
+    <pp>20</pp>
+    <type></type>
+</407>
+<408>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Drain Punch</ename>
+    <id>409</id>
+    <power>75</power>
+    <pp>10</pp>
+    <type></type>
+</408>
+<409>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Vacuum Wave</ename>
+    <id>410</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</409>
+<410>
+    <accuracy>70</accuracy>
+    <category></category>
+    <ename>Focus Blast</ename>
+    <id>411</id>
+    <power>120</power>
+    <pp>5</pp>
+    <tm>52</tm>
+    <type></type>
+</410>
+<411>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Energy Ball</ename>
+    <id>412</id>
+    <power>90</power>
+    <pp>10</pp>
+    <tm>53</tm>
+    <type></type>
+</411>
+<412>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Brave Bird</ename>
+    <id>413</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</412>
+<413>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Earth Power</ename>
+    <id>414</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</413>
+<414>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Switcheroo</ename>
+    <id>415</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</414>
+<415>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Giga Impact</ename>
+    <id>416</id>
+    <power>150</power>
+    <pp>5</pp>
+    <tm>68</tm>
+    <type></type>
+</415>
+<416>
+    <accuracy />
+    <category></category>
+    <ename>Nasty Plot</ename>
+    <id>417</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</416>
+<417>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bullet Punch</ename>
+    <id>418</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</417>
+<418>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Avalanche</ename>
+    <id>419</id>
+    <power>60</power>
+    <pp>10</pp>
+    <type></type>
+</418>
+<419>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Ice Shard</ename>
+    <id>420</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</419>
+<420>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Shadow Claw</ename>
+    <id>421</id>
+    <power>70</power>
+    <pp>15</pp>
+    <tm>65</tm>
+    <type></type>
+</420>
+<421>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Thunder Fang</ename>
+    <id>422</id>
+    <power>65</power>
+    <pp>15</pp>
+    <type></type>
+</421>
+<422>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Ice Fang</ename>
+    <id>423</id>
+    <power>65</power>
+    <pp>15</pp>
+    <type></type>
+</422>
+<423>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Fire Fang</ename>
+    <id>424</id>
+    <power>65</power>
+    <pp>15</pp>
+    <type></type>
+</423>
+<424>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Shadow Sneak</ename>
+    <id>425</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</424>
+<425>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Mud Bomb</ename>
+    <id>426</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</425>
+<426>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psycho Cut</ename>
+    <id>427</id>
+    <power>70</power>
+    <pp>20</pp>
+    <type></type>
+</426>
+<427>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Zen Headbutt</ename>
+    <id>428</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</427>
+<428>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Mirror Shot</ename>
+    <id>429</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</428>
+<429>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flash Cannon</ename>
+    <id>430</id>
+    <power>80</power>
+    <pp>10</pp>
+    <tm>91</tm>
+    <type></type>
+</429>
+<430>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Rock Climb</ename>
+    <id>431</id>
+    <power>90</power>
+    <pp>20</pp>
+    <type></type>
+</430>
+<431>
+    <accuracy />
+    <category></category>
+    <ename>Defog</ename>
+    <id>432</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</431>
+<432>
+    <accuracy />
+    <category></category>
+    <ename>Trick Room</ename>
+    <id>433</id>
+    <power />
+    <pp>5</pp>
+    <tm>92</tm>
+    <type></type>
+</432>
+<433>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Draco Meteor</ename>
+    <id>434</id>
+    <power>130</power>
+    <pp>5</pp>
+    <type></type>
+</433>
+<434>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Discharge</ename>
+    <id>435</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</434>
+<435>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Lava Plume</ename>
+    <id>436</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</435>
+<436>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Leaf Storm</ename>
+    <id>437</id>
+    <power>130</power>
+    <pp>5</pp>
+    <type></type>
+</436>
+<437>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Power Whip</ename>
+    <id>438</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</437>
+<438>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Rock Wrecker</ename>
+    <id>439</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</438>
+<439>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Cross Poison</ename>
+    <id>440</id>
+    <power>70</power>
+    <pp>20</pp>
+    <type></type>
+</439>
+<440>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Gunk Shot</ename>
+    <id>441</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</440>
+<441>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Iron Head</ename>
+    <id>442</id>
+    <power>80</power>
+    <pp>15</pp>
+    <type></type>
+</441>
+<442>
+    <accuracy />
+    <category></category>
+    <ename>Magnet Bomb</ename>
+    <id>443</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</442>
+<443>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Stone Edge</ename>
+    <id>444</id>
+    <power>100</power>
+    <pp>5</pp>
+    <tm>71</tm>
+    <type></type>
+</443>
+<444>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Captivate</ename>
+    <id>445</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</444>
+<445>
+    <accuracy />
+    <category></category>
+    <ename>Stealth Rock</ename>
+    <id>446</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</445>
+<446>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Grass Knot</ename>
+    <id>447</id>
+    <power />
+    <pp>20</pp>
+    <tm>86</tm>
+    <type></type>
+</446>
+<447>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Chatter</ename>
+    <id>448</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</447>
+<448>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Judgment</ename>
+    <id>449</id>
+    <power>100</power>
+    <pp>10</pp>
+    <type></type>
+</448>
+<449>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bug Bite</ename>
+    <id>450</id>
+    <power>60</power>
+    <pp>20</pp>
+    <type></type>
+</449>
+<450>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Charge Beam</ename>
+    <id>451</id>
+    <power>50</power>
+    <pp>10</pp>
+    <tm>57</tm>
+    <type></type>
+</450>
+<451>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Wood Hammer</ename>
+    <id>452</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</451>
+<452>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Aqua Jet</ename>
+    <id>453</id>
+    <power>40</power>
+    <pp>20</pp>
+    <type></type>
+</452>
+<453>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Attack Order</ename>
+    <id>454</id>
+    <power>90</power>
+    <pp>15</pp>
+    <type></type>
+</453>
+<454>
+    <accuracy />
+    <category></category>
+    <ename>Defend Order</ename>
+    <id>455</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</454>
+<455>
+    <accuracy />
+    <category></category>
+    <ename>Heal Order</ename>
+    <id>456</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</455>
+<456>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Head Smash</ename>
+    <id>457</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</456>
+<457>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Double Hit</ename>
+    <id>458</id>
+    <power>35</power>
+    <pp>10</pp>
+    <type></type>
+</457>
+<458>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Roar of Time</ename>
+    <id>459</id>
+    <power>150</power>
+    <pp>5</pp>
+    <type></type>
+</458>
+<459>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Spacial Rend</ename>
+    <id>460</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</459>
+<460>
+    <accuracy />
+    <category></category>
+    <ename>Lunar Dance</ename>
+    <id>461</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</460>
+<461>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Crush Grip</ename>
+    <id>462</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</461>
+<462>
+    <accuracy>75</accuracy>
+    <category></category>
+    <ename>Magma Storm</ename>
+    <id>463</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</462>
+<463>
+    <accuracy>80</accuracy>
+    <category></category>
+    <ename>Dark Void</ename>
+    <id>464</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</463>
+<464>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Seed Flare</ename>
+    <id>465</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</464>
+<465>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Ominous Wind</ename>
+    <id>466</id>
+    <power>60</power>
+    <pp>5</pp>
+    <type></type>
+</465>
+<466>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Shadow Force</ename>
+    <id>467</id>
+    <power>120</power>
+    <pp>5</pp>
+    <type></type>
+</466>
+<467>
+    <accuracy />
+    <category></category>
+    <ename>Hone Claws</ename>
+    <id>468</id>
+    <power />
+    <pp>15</pp>
+    <tm>1</tm>
+    <type></type>
+</467>
+<468>
+    <accuracy />
+    <category></category>
+    <ename>Wide Guard</ename>
+    <id>469</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</468>
+<469>
+    <accuracy />
+    <category></category>
+    <ename>Guard Split</ename>
+    <id>470</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</469>
+<470>
+    <accuracy />
+    <category></category>
+    <ename>Power Split</ename>
+    <id>471</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</470>
+<471>
+    <accuracy />
+    <category></category>
+    <ename>Wonder Room</ename>
+    <id>472</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</471>
+<472>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psyshock</ename>
+    <id>473</id>
+    <power>80</power>
+    <pp>10</pp>
+    <tm>3</tm>
+    <type></type>
+</472>
+<473>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Venoshock</ename>
+    <id>474</id>
+    <power>65</power>
+    <pp>10</pp>
+    <tm>9</tm>
+    <type></type>
+</473>
+<474>
+    <accuracy />
+    <category></category>
+    <ename>Autotomize</ename>
+    <id>475</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</474>
+<475>
+    <accuracy />
+    <category></category>
+    <ename>Rage Powder</ename>
+    <id>476</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</475>
+<476>
+    <accuracy />
+    <category></category>
+    <ename>Telekinesis</ename>
+    <id>477</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</476>
+<477>
+    <accuracy />
+    <category></category>
+    <ename>Magic Room</ename>
+    <id>478</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</477>
+<478>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Smack Down</ename>
+    <id>479</id>
+    <power>50</power>
+    <pp>15</pp>
+    <tm>23</tm>
+    <type></type>
+</478>
+<479>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Storm Throw</ename>
+    <id>480</id>
+    <power>60</power>
+    <pp>10</pp>
+    <type></type>
+</479>
+<480>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flame Burst</ename>
+    <id>481</id>
+    <power>70</power>
+    <pp>15</pp>
+    <type></type>
+</480>
+<481>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sludge Wave</ename>
+    <id>482</id>
+    <power>95</power>
+    <pp>10</pp>
+    <tm>34</tm>
+    <type></type>
+</481>
+<482>
+    <accuracy />
+    <category></category>
+    <ename>Quiver Dance</ename>
+    <id>483</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</482>
+<483>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Heavy Slam</ename>
+    <id>484</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</483>
+<484>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Synchronoise</ename>
+    <id>485</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</484>
+<485>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Electro Ball</ename>
+    <id>486</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</485>
+<486>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Soak</ename>
+    <id>487</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</486>
+<487>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Flame Charge</ename>
+    <id>488</id>
+    <power>50</power>
+    <pp>20</pp>
+    <tm>43</tm>
+    <type></type>
+</487>
+<488>
+    <accuracy />
+    <category></category>
+    <ename>Coil</ename>
+    <id>489</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</488>
+<489>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Low Sweep</ename>
+    <id>490</id>
+    <power>65</power>
+    <pp>20</pp>
+    <tm>47</tm>
+    <type></type>
+</489>
+<490>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Acid Spray</ename>
+    <id>491</id>
+    <power>40</power>
+    <pp>20</pp>
+    <type></type>
+</490>
+<491>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Foul Play</ename>
+    <id>492</id>
+    <power>95</power>
+    <pp>15</pp>
+    <type></type>
+</491>
+<492>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Simple Beam</ename>
+    <id>493</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</492>
+<493>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Entrainment</ename>
+    <id>494</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</493>
+<494>
+    <accuracy />
+    <category></category>
+    <ename>After You</ename>
+    <id>495</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</494>
+<495>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Round</ename>
+    <id>496</id>
+    <power>60</power>
+    <pp>15</pp>
+    <tm>48</tm>
+    <type></type>
+</495>
+<496>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Echoed Voice</ename>
+    <id>497</id>
+    <power>40</power>
+    <pp>15</pp>
+    <tm>49</tm>
+    <type></type>
+</496>
+<497>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Chip Away</ename>
+    <id>498</id>
+    <power>70</power>
+    <pp>20</pp>
+    <type></type>
+</497>
+<498>
+    <accuracy />
+    <category></category>
+    <ename>Clear Smog</ename>
+    <id>499</id>
+    <power>50</power>
+    <pp>15</pp>
+    <type></type>
+</498>
+<499>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Stored Power</ename>
+    <id>500</id>
+    <power>20</power>
+    <pp>10</pp>
+    <type></type>
+</499>
+<500>
+    <accuracy />
+    <category></category>
+    <ename>Quick Guard</ename>
+    <id>501</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</500>
+<501>
+    <accuracy />
+    <category></category>
+    <ename>Ally Switch</ename>
+    <id>502</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</501>
+<502>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Scald</ename>
+    <id>503</id>
+    <power>80</power>
+    <pp>15</pp>
+    <tm>55</tm>
+    <type></type>
+</502>
+<503>
+    <accuracy />
+    <category></category>
+    <ename>Shell Smash</ename>
+    <id>504</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</503>
+<504>
+    <accuracy />
+    <category></category>
+    <ename>Heal Pulse</ename>
+    <id>505</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</504>
+<505>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Hex</ename>
+    <id>506</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</505>
+<506>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sky Drop</ename>
+    <id>507</id>
+    <power>60</power>
+    <pp>10</pp>
+    <tm>58</tm>
+    <type></type>
+</506>
+<507>
+    <accuracy />
+    <category></category>
+    <ename>Shift Gear</ename>
+    <id>508</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</507>
+<508>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Circle Throw</ename>
+    <id>509</id>
+    <power>60</power>
+    <pp>10</pp>
+    <type></type>
+</508>
+<509>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Incinerate</ename>
+    <id>510</id>
+    <power>60</power>
+    <pp>15</pp>
+    <tm>59</tm>
+    <type></type>
+</509>
+<510>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Quash</ename>
+    <id>511</id>
+    <power />
+    <pp>15</pp>
+    <tm>60</tm>
+    <type></type>
+</510>
+<511>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Acrobatics</ename>
+    <id>512</id>
+    <power>55</power>
+    <pp>15</pp>
+    <tm>62</tm>
+    <type></type>
+</511>
+<512>
+    <accuracy />
+    <category></category>
+    <ename>Reflect Type</ename>
+    <id>513</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</512>
+<513>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Retaliate</ename>
+    <id>514</id>
+    <power>70</power>
+    <pp>5</pp>
+    <tm>67</tm>
+    <type></type>
+</513>
+<514>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Final Gambit</ename>
+    <id>515</id>
+    <power />
+    <pp>5</pp>
+    <type></type>
+</514>
+<515>
+    <accuracy />
+    <category></category>
+    <ename>Bestow</ename>
+    <id>516</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</515>
+<516>
+    <accuracy>50</accuracy>
+    <category></category>
+    <ename>Inferno</ename>
+    <id>517</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</516>
+<517>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Water Pledge</ename>
+    <id>518</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</517>
+<518>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fire Pledge</ename>
+    <id>519</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</518>
+<519>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Grass Pledge</ename>
+    <id>520</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</519>
+<520>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Volt Switch</ename>
+    <id>521</id>
+    <power>70</power>
+    <pp>20</pp>
+    <tm>72</tm>
+    <type></type>
+</520>
+<521>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Struggle Bug</ename>
+    <id>522</id>
+    <power>50</power>
+    <pp>20</pp>
+    <tm>76</tm>
+    <type></type>
+</521>
+<522>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Bulldoze</ename>
+    <id>523</id>
+    <power>60</power>
+    <pp>20</pp>
+    <tm>78</tm>
+    <type></type>
+</522>
+<523>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Frost Breath</ename>
+    <id>524</id>
+    <power>60</power>
+    <pp>10</pp>
+    <tm>79</tm>
+    <type></type>
+</523>
+<524>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Dragon Tail</ename>
+    <id>525</id>
+    <power>60</power>
+    <pp>10</pp>
+    <tm>82</tm>
+    <type></type>
+</524>
+<525>
+    <accuracy />
+    <category></category>
+    <ename>Work Up</ename>
+    <id>526</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</525>
+<526>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Electroweb</ename>
+    <id>527</id>
+    <power>55</power>
+    <pp>15</pp>
+    <type></type>
+</526>
+<527>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Wild Charge</ename>
+    <id>528</id>
+    <power>90</power>
+    <pp>15</pp>
+    <tm>93</tm>
+    <type></type>
+</527>
+<528>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Drill Run</ename>
+    <id>529</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</528>
+<529>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Dual Chop</ename>
+    <id>530</id>
+    <power>40</power>
+    <pp>15</pp>
+    <type></type>
+</529>
+<530>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Heart Stamp</ename>
+    <id>531</id>
+    <power>60</power>
+    <pp>25</pp>
+    <type></type>
+</530>
+<531>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Horn Leech</ename>
+    <id>532</id>
+    <power>75</power>
+    <pp>10</pp>
+    <type></type>
+</531>
+<532>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Sacred Sword</ename>
+    <id>533</id>
+    <power>90</power>
+    <pp>20</pp>
+    <type></type>
+</532>
+<533>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Razor Shell</ename>
+    <id>534</id>
+    <power>75</power>
+    <pp>10</pp>
+    <type></type>
+</533>
+<534>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Heat Crash</ename>
+    <id>535</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</534>
+<535>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Leaf Tornado</ename>
+    <id>536</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</535>
+<536>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Steamroller</ename>
+    <id>537</id>
+    <power>65</power>
+    <pp>20</pp>
+    <type></type>
+</536>
+<537>
+    <accuracy />
+    <category></category>
+    <ename>Cotton Guard</ename>
+    <id>538</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</537>
+<538>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Night Daze</ename>
+    <id>539</id>
+    <power>85</power>
+    <pp>10</pp>
+    <type></type>
+</538>
+<539>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Psystrike</ename>
+    <id>540</id>
+    <power>100</power>
+    <pp>10</pp>
+    <type></type>
+</539>
+<540>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Tail Slap</ename>
+    <id>541</id>
+    <power>25</power>
+    <pp>10</pp>
+    <type></type>
+</540>
+<541>
+    <accuracy>70</accuracy>
+    <category></category>
+    <ename>Hurricane</ename>
+    <id>542</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</541>
+<542>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Head Charge</ename>
+    <id>543</id>
+    <power>120</power>
+    <pp>15</pp>
+    <type></type>
+</542>
+<543>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Gear Grind</ename>
+    <id>544</id>
+    <power>50</power>
+    <pp>15</pp>
+    <type></type>
+</543>
+<544>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Searing Shot</ename>
+    <id>545</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</544>
+<545>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Techno Blast</ename>
+    <id>546</id>
+    <power>85</power>
+    <pp>5</pp>
+    <type></type>
+</545>
+<546>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Relic Song</ename>
+    <id>547</id>
+    <power>75</power>
+    <pp>10</pp>
+    <type></type>
+</546>
+<547>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Secret Sword</ename>
+    <id>548</id>
+    <power>85</power>
+    <pp>10</pp>
+    <type></type>
+</547>
+<548>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Glaciate</ename>
+    <id>549</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</548>
+<549>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Bolt Strike</ename>
+    <id>550</id>
+    <power>130</power>
+    <pp>5</pp>
+    <type></type>
+</549>
+<550>
+    <accuracy>85</accuracy>
+    <category></category>
+    <ename>Blue Flare</ename>
+    <id>551</id>
+    <power>130</power>
+    <pp>5</pp>
+    <type></type>
+</550>
+<551>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fiery Dance</ename>
+    <id>552</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</551>
+<552>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Freeze Shock</ename>
+    <id>553</id>
+    <power>140</power>
+    <pp>5</pp>
+    <type></type>
+</552>
+<553>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Ice Burn</ename>
+    <id>554</id>
+    <power>140</power>
+    <pp>5</pp>
+    <type></type>
+</553>
+<554>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Snarl</ename>
+    <id>555</id>
+    <power>55</power>
+    <pp>15</pp>
+    <tm>95</tm>
+    <type></type>
+</554>
+<555>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Icicle Crash</ename>
+    <id>556</id>
+    <power>85</power>
+    <pp>10</pp>
+    <type></type>
+</555>
+<556>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>V-create</ename>
+    <id>557</id>
+    <power>180</power>
+    <pp>5</pp>
+    <type></type>
+</556>
+<557>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fusion Flare</ename>
+    <id>558</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</557>
+<558>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fusion Bolt</ename>
+    <id>559</id>
+    <power>100</power>
+    <pp>5</pp>
+    <type></type>
+</558>
+<559>
+    <accuracy>95</accuracy>
+    <category></category>
+    <ename>Flying Press</ename>
+    <id>560</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</559>
+<560>
+    <accuracy />
+    <category></category>
+    <ename>Mat Block</ename>
+    <id>561</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</560>
+<561>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Belch</ename>
+    <id>562</id>
+    <power>120</power>
+    <pp>10</pp>
+    <type></type>
+</561>
+<562>
+    <accuracy />
+    <category></category>
+    <ename>Rototiller</ename>
+    <id>563</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</562>
+<563>
+    <accuracy />
+    <category></category>
+    <ename>Sticky Web</ename>
+    <id>564</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</563>
+<564>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fell Stinger</ename>
+    <id>565</id>
+    <power>30</power>
+    <pp>25</pp>
+    <type></type>
+</564>
+<565>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Phantom Force</ename>
+    <id>566</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</565>
+<566>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Trick-or-Treat</ename>
+    <id>567</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</566>
+<567>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Noble Roar</ename>
+    <id>568</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</567>
+<568>
+    <accuracy>25</accuracy>
+    <category></category>
+    <ename>Ion Deluge</ename>
+    <id>569</id>
+    <power />
+    <pp>25</pp>
+    <type></type>
+</568>
+<569>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Parabolic Charge</ename>
+    <id>570</id>
+    <power>50</power>
+    <pp>20</pp>
+    <type></type>
+</569>
+<570>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Forest's Curse</ename>
+    <id>571</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</570>
+<571>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Petal Blizzard</ename>
+    <id>572</id>
+    <power>90</power>
+    <pp>15</pp>
+    <type></type>
+</571>
+<572>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Freeze-Dry</ename>
+    <id>573</id>
+    <power>70</power>
+    <pp>20</pp>
+    <type></type>
+</572>
+<573>
+    <accuracy />
+    <category></category>
+    <ename>Disarming Voice</ename>
+    <id>574</id>
+    <power>40</power>
+    <pp>15</pp>
+    <type></type>
+</573>
+<574>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Parting Shot</ename>
+    <id>575</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</574>
+<575>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Topsy-Turvy</ename>
+    <id>576</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</575>
+<576>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Draining Kiss</ename>
+    <id>577</id>
+    <power>50</power>
+    <pp>20</pp>
+    <type></type>
+</576>
+<577>
+    <accuracy />
+    <category></category>
+    <ename>Crafty Shield</ename>
+    <id>578</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</577>
+<578>
+    <accuracy />
+    <category></category>
+    <ename>Flower Shield</ename>
+    <id>579</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</578>
+<579>
+    <accuracy />
+    <category></category>
+    <ename>Grassy Terrain</ename>
+    <id>580</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</579>
+<580>
+    <accuracy />
+    <category></category>
+    <ename>Misty Terrain</ename>
+    <id>581</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</580>
+<581>
+    <accuracy />
+    <category></category>
+    <ename>Electrify</ename>
+    <id>582</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</581>
+<582>
+    <accuracy>90</accuracy>
+    <category></category>
+    <ename>Play Rough</ename>
+    <id>583</id>
+    <power>90</power>
+    <pp>15</pp>
+    <type></type>
+</582>
+<583>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Fairy Wind</ename>
+    <id>584</id>
+    <power>40</power>
+    <pp>30</pp>
+    <type></type>
+</583>
+<584>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Moonblast</ename>
+    <id>585</id>
+    <power>95</power>
+    <pp>15</pp>
+    <type></type>
+</584>
+<585>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Boomburst</ename>
+    <id>586</id>
+    <power>140</power>
+    <pp>10</pp>
+    <type></type>
+</585>
+<586>
+    <accuracy />
+    <category></category>
+    <ename>Fairy Lock</ename>
+    <id>587</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</586>
+<587>
+    <accuracy />
+    <category></category>
+    <ename>King's Shield</ename>
+    <id>588</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</587>
+<588>
+    <accuracy />
+    <category></category>
+    <ename>Play Nice</ename>
+    <id>589</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</588>
+<589>
+    <accuracy />
+    <category></category>
+    <ename>Confide</ename>
+    <id>590</id>
+    <power />
+    <pp>20</pp>
+    <tm>100</tm>
+    <type></type>
+</589>
+<590>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Water Shuriken</ename>
+    <id>594</id>
+    <power>15</power>
+    <pp>20</pp>
+    <type></type>
+</590>
+<591>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Mystical Fire</ename>
+    <id>595</id>
+    <power>65</power>
+    <pp>10</pp>
+    <type></type>
+</591>
+<592>
+    <accuracy />
+    <category></category>
+    <ename>Spiky Shield</ename>
+    <id>596</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</592>
+<593>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Aromatic Mist</ename>
+    <id>597</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</593>
+<594>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Eerie Impulse</ename>
+    <id>598</id>
+    <power />
+    <pp>15</pp>
+    <type></type>
+</594>
+<595>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Venom Drench</ename>
+    <id>599</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</595>
+<596>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Powder</ename>
+    <id>600</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</596>
+<597>
+    <accuracy />
+    <category></category>
+    <ename>Geomancy</ename>
+    <id>601</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</597>
+<598>
+    <accuracy />
+    <category></category>
+    <ename>Magnetic Flux</ename>
+    <id>602</id>
+    <power />
+    <pp>20</pp>
+    <type></type>
+</598>
+<599>
+    <accuracy />
+    <category></category>
+    <ename>Happy Hour</ename>
+    <id>603</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</599>
+<600>
+    <accuracy />
+    <category></category>
+    <ename>Electric Terrain</ename>
+    <id>604</id>
+    <power />
+    <pp>10</pp>
+    <type></type>
+</600>
+<601>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Dazzling Gleam</ename>
+    <id>605</id>
+    <power>80</power>
+    <pp>10</pp>
+    <tm>99</tm>
+    <type></type>
+</601>
+<602>
+    <accuracy />
+    <category></category>
+    <ename>Celebration</ename>
+    <id>606</id>
+    <power />
+    <pp>40</pp>
+    <type></type>
+</602>
+<603>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Baby-Doll Eyes</ename>
+    <id>608</id>
+    <power />
+    <pp>30</pp>
+    <type></type>
+</603>
+<604>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Nuzzle</ename>
+    <id>609</id>
+    <power>20</power>
+    <pp>20</pp>
+    <type></type>
+</604>
+<605>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Infestation</ename>
+    <id>611</id>
+    <power>20</power>
+    <pp>35</pp>
+    <tm>83</tm>
+    <type></type>
+</605>
+<606>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Power-Up Punch</ename>
+    <id>612</id>
+    <power>40</power>
+    <pp>30</pp>
+    <tm>98</tm>
+    <type></type>
+</606>
+<607>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Oblivion Wing</ename>
+    <id>613</id>
+    <power>80</power>
+    <pp>10</pp>
+    <type></type>
+</607>
+<608>
+    <accuracy>100</accuracy>
+    <category></category>
+    <ename>Land's Wrath</ename>
+    <id>616</id>
+    <power>90</power>
+    <pp>10</pp>
+    <type></type>
+</608>

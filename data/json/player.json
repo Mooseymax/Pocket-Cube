@@ -1,0 +1,69 @@
+{
+    "player": [
+        {
+            "id": "01",
+			"name": "Hamblett",
+			"money": 10000,
+			"badge": [ { "1": TRUE, "2": FALSE, "3": FALSE, "4": FALSE, "5": FALSE, "6": FALSE, "7": FALSE, "8": FALSE } ],
+			"cubeseen": 6,
+			"cubecaught": 6,
+			"time": 6000,
+            "pokemon": [
+                {
+                    "id": "101",
+                    "cubeid": "01",
+                    "nickname": "One Cube",
+                    "level": 5,
+                    "experience": 130,
+                    "tv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ],
+                    "rv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ]
+                },
+                {
+                    "id": "102",
+                    "cubeid": "02",
+                    "nickname": "Two Cube",
+                    "level": 5,
+                    "experience": 130,
+                    "tv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ],
+                    "rv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ]
+                },
+                {
+                    "id": "103",
+                    "cubeid": "03",
+                    "nickname": "Three Cube",
+                    "level": 5,
+                    "experience": 130,
+                    "tv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ],
+                    "rv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ]
+                },
+                {
+                    "id": "104",
+                    "cubeid": "04",
+                    "nickname": "Four Cube",
+                    "level": 5,
+                    "experience": 130,
+                    "tv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ],
+                    "rv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ]
+                },
+                {
+                    "id": "105",
+                    "cubeid": "05",
+                    "nickname": "Five Cube",
+                    "level": 5,
+                    "experience": 130,
+                    "tv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ],
+                    "rv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ]
+                },
+                {
+                    "id": "106",
+                    "cubeid": "06",
+                    "nickname": "Six Cube",
+                    "level": 5,
+                    "experience": 130,
+                    "tv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ],
+                    "rv": [ { "health": 2, "attack": 2, "defence": 2, "spcAttack": 2, "spcDefence": 2, "speed": 2 } ]
+                }
+            ]
+        }
+    ]
+}

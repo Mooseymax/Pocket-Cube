@@ -1,0 +1,2 @@
+http://www.boost.org/doc/libs/1_45_0/doc/html/boost_random/tutorial.html#boost_random.tutorial.generating_integers_in_a_range
+

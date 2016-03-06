@@ -1,0 +1,24 @@
+{
+    "attacks": [
+        {
+            "id": "01",
+            "name": "Tackle",
+            "damage": 10,
+            "pp": 25,
+            "accuracy": 0.9,
+            "critical": 0.5,
+            "effect": 0,
+            "effectChance": 0
+        },
+        {
+            "id": "02",
+            "name": "Tail Whip",
+            "damage": 0,
+            "pp": 20,
+            "accuracy": 0.95,
+            "critical": 0,
+            "effect": 1,
+            "effectChance": 0.95
+        }
+    ]
+}
