@@ -17,7 +17,7 @@ namespace Pocket_Cube
             //Console.WriteLine("Working"); //Line written as placeholder to check program working
             //Test Output
             Console.WriteLine("Name: " + cube1.name);
-            Console.WriteLine("Level: " + cube1.level + " (" + cube1.xp + "xp)");
+            Console.WriteLine("Level: " + cube1.level + " (" + cube1.xp + "exp)");
             Console.WriteLine("Moves: " + cube1.move1 + ", " + cube1.move2 + ", " + cube1.move3 + ", " + cube1.move4);
             Console.WriteLine("Health: " + cube1.health);
             Console.WriteLine("Attack: " + cube1.attack);
@@ -53,12 +53,11 @@ namespace Pocket_Cube
             move4 = m4;
         }
 
-        public void experience(double exp)
+        public void experience(double x)
         {
-            //Define all integers
+            //Define all integers (x is defined in the function)
             int[] n = new int[101]; //Define "n" as an array with 101 integers
             int i, q; //Defines "i" & "q"
-            double x = exp; //Sets "x" equal to "exp"
 
 
             //Beginning of for loop for "i" to set all values within array "n"
@@ -71,7 +70,7 @@ namespace Pocket_Cube
             for (q = 0; x > n[q]; q++)
             {
                 level = q;
-                xp = exp;
+                exp = x;
             }
         }
     }
