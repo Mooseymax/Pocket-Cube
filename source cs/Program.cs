@@ -11,11 +11,8 @@ namespace Pocket_Cube
     {
         static void Main(string[] args)
         {
-            cube cube1 = new cube();
-            cube1.stats(01, "Cube One", 10, 10, 30, 10, 10, 50.00); //Set the stats of cube1
-            cube1.ev_stats(10, 10, 30, 10, 10, 50.00); //Set the ev stats of cube1
-            cube1.moveSet(01, 02, 00, 00); //Set the moves that cube1 knows
-            cube1.experience(1000.00); //Set experience of cube1
+            //call all cube base details into existance.
+            callCubes();
 
             //Test Output
             Console.WriteLine("Name: " + cube1.name);
@@ -26,12 +23,97 @@ namespace Pocket_Cube
             Console.WriteLine("Defence: " + cube1.defence);
             Console.WriteLine("Speed: " + cube1.speed);
             Console.WriteLine("If you destroyed this cube, you would get " + cube1.giveExp + " experience.");
+            Console.WriteLine("");
+            //xml();
             Console.ReadKey();
         }
 
-        static void xml()
+/*          static void xml()
         {
-            XmlTextReader reader = new XmlTextReader("cubes.xml");
+            XmlDocument doc = new XmlDocument();
+            doc.Load(@"C:\Users\Moose\Desktop\Pocket-Cube\source cs\cubes.xml");
+            string xmlcontents = doc.InnerXml;
+
+            XmlDocument xml = new XmlDocument();
+            xml.LoadXml(xmlcontents);
+
+            XmlNodeList xnList = xml.SelectNodes("/cubes/cube");
+            foreach (XmlNode xn in xnList)
+            {
+                string name = xn["name"].InnerText;
+                string base_attack = xn["base_attack"].InnerText;
+                Console.WriteLine("Name: {0} {1}", name, base_attack);
+            }
+        }
+*/
+
+        static void callCubes()
+        {
+            cube blank = new cube();
+            blank.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            blank.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            blank.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube1 = new cube();
+            cube1.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube1.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube1.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube2 = new cube();
+            cube2.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube2.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube2.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube3 = new cube();
+            cube3.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube3.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube3.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube4 = new cube();
+            cube4.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube4.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube4.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube5 = new cube();
+            cube5.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube5.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube5.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube6 = new cube();
+            cube6.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube6.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube6.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube7 = new cube();
+            cube7.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube7.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube7.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube8 = new cube();
+            cube8.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube8.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube8.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube9 = new cube();
+            cube9.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube9.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube9.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube10 = new cube();
+            cube10.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube10.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube10.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube11 = new cube();
+            cube11.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube11.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube11.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
+            cube cube12 = new cube();
+            cube12.base_stats(00, "Blank", 0, 0, 0, 0, 0, 0.00); //id, name, atk, def, speed, sp. atk, sp. def, health
+            cube12.ev_stats(0, 0, 0, 0, 0, 0.00); //atk, def, speed, sp. atk, sp. def, health
+            cube12.moveSet(00, 00, 00, 00);//move1, move2, move3, move4
+
         }
 
     }
@@ -58,7 +140,7 @@ namespace Pocket_Cube
             public double giveExp;
 
             //base stats method
-            public void stats(int i, string n, int atk, int def, int spd, int sAtk, int sDef, double hp)
+            public void base_stats(int i, string n, int atk, int def, int spd, int sAtk, int sDef, double hp)
             {
                 id = i;
                 name = n;
