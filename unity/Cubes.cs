@@ -1,3 +1,5 @@
+using System.Collections;
+
 class Cube
 {
     //stats variables
@@ -20,6 +22,59 @@ class Cube
     private double exp;
     private double giveExp;
 
+    //Experience:Level Array
+    private int[] levelTable = new int[101];
+
+    //Access level
+    public int Level {
+        get { return level; }
+        set { level = Exp; }
+    }
+
+    int Exp()
+    {
+        int i,q;
+    
+        for (i = 0; i< 100; i++)
+        {
+            levelTable[i] = i* i * i;
+        }
+
+        for (q = 0; exp > levelTable[q]; q++)
+        {
+            
+        }
+        return q;
+    }
+
+    /*
+    //Experience method
+        public void Experience(double xp)
+    {
+        //Define all integers
+        int[] n = new int[100]; //Define "n" as an array with 101 integers
+        int i, q; //Defines "i" & "q"
+        double x = xp; //Sets "x" equal to "exp"
+
+
+        //Beginning of for loop for "i" to set all values within array "n"
+        for (i = 0; i < 100; i++)
+        {
+            n[i] = i * i * i; //Sets array "n" equal to "i"^3
+        }
+
+        //Beginning of for loop for "q" to check what level the Cube is based on current Experience
+        for (q = 0; x > n[q]; q++)
+        {
+            level = q;
+            exp = xp;
+        }
+
+        //set the amount of Experience a Cube gives
+        giveExp = (100); //Placeholder while I figure out the best calculation method
+
+    }*/
+
     //Access Overall Info
     public int Id
     {
@@ -30,6 +85,11 @@ class Cube
     {
         get { return name; }
         set { name = value; }
+    }
+    public double Experience
+    {
+        get { return exp; }
+        set { exp = value; }
     }
     public int Attack
     {
@@ -73,7 +133,7 @@ class Cube
         get { return baseDefence; }
         set { baseDefence = value; }
     }
-    public int baseSpeed
+    public int BaseSpeed
     {
         get { return baseSpeed; }
         set { baseSpeed = value; }
@@ -126,34 +186,8 @@ class Cube
         get { return evHealth; }
         set { evHealth = value; }
     }
-
-    //Experience method
-    public void Experience(double xp)
-    {
-        //Define all integers
-        int[] n = new int[100]; //Define "n" as an array with 101 integers
-        int i, q; //Defines "i" & "q"
-        double x = xp; //Sets "x" equal to "exp"
-
-
-        //Beginning of for loop for "i" to set all values within array "n"
-        for (i = 0; i < 100; i++)
-        {
-            n[i] = i * i * i; //Sets array "n" equal to "i"^3
-        }
-
-        //Beginning of for loop for "q" to check what level the Cube is based on current Experience
-        for (q = 0; x > n[q]; q++)
-        {
-            level = q;
-            exp = xp;
-        }
-
-        //set the amount of Experience a Cube gives
-        giveExp = (100); //Placeholder while I figure out the best calculation method
-
-    }
-    public void SetStats()
+   
+   /* public void SetStats()
     {
         //setting value of stats equal to the base plus the EVs
         attack = baseAttack + evAttack;
@@ -162,5 +196,6 @@ class Cube
         specAttack = baseSpecAttack + evSpecAttack;
         specDefence = baseSpecDefence + evSpecDefence;
         health = baseHealth + evHealth;
-    }
+    }*/
+
 }
