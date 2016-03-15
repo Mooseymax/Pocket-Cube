@@ -5,6 +5,13 @@
 *.suo
 *.user
 *.sln.docstates
+data/
+unityold/
+source cp/
+RPG/
+unity/Library
+unity/obj
+unity/ProjectSettings
 
 # Build results
 
